@@ -1,0 +1,36 @@
+1. What is our understanding of the blockchain?
+
+Blockchain is an well organised /distributes/ de-centralised and most importantly well encripted way of storing or organising data (Information).
+By using technique of blockchain a user can drastically increase security / verifiablity / data transperency for their system.
+
+____________________________________________
+
+2. What is the core problem block chain trying to solve? 
+
+Blockchain deals with problems like AUTHENTICITY / SECURITY / NEED OF POWERFUL THIRD PARTY TRUST !
+
+It resolves or eliminate such issuescreating a powerful and more secure database (distributed) which is also encryted no that no chance of hacking is possible.
+
+___________________________________________
+
+3. What are the few features which bock chain will give you?
+
+Its may use an integreted system for distributed datbase plau crytography , whih generates a VERIFIABLE / UNCHANGEABLE / TAMPER-PROOF / IMMUTABLE system
+
+_______________________________________________
+
+4. What all things does a block contain?
+
+blockchain  consists of :
+-Block number 
+-Data / info / record 
+-Previous block signature 
+-current block signature 
+-mining key 
+
+_______________________________________________
+
+5. How is the verifiability of block chain is been attained?
+
+As a main feature of blockchain, there is an unique fingerprint for any data | also even if data is is altered even by one bit , the fingerprint of that data will get changed 
+Secondle, exactly same data is stored atv different location plus multiple times , making varification of data much easier.
